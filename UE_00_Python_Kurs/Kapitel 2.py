@@ -1,5 +1,13 @@
-a = (40+5)
-print(a)
+#Frage 1
+#   a = 2
+#   b = "3"
 
-b = (50-30)
-print(b)
+#   print(a + b)
+#Frage 2
+print('Alles Gute ' + 'zum 18. ') # + 'Geburtstag!')
+#Frage 3
+v = 122
+print(type(v))
+#Frage 4
+w = '122'
+print(type(w))
