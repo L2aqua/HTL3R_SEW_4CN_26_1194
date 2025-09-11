@@ -12,4 +12,4 @@ print(type(v))
 w = '122'
 print(type(w))
 
-#Das ist Kapitel 2
+#Kapitel 2 abgeschlossen
