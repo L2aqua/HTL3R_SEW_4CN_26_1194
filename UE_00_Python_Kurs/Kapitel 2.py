@@ -11,3 +11,5 @@ print(type(v))
 #Frage 4
 w = '122'
 print(type(w))
+
+#Das ist Kapitel 2
