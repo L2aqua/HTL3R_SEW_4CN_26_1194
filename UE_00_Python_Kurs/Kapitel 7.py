@@ -12,3 +12,4 @@ ausgabe('Du hast das 7. Kapitel erfolgreich abgeschlossen - Super!', 10)
 
 #Frage 3
 #Antwort A
+#Frage 1 Falsch beantwortet
